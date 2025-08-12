@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in C++,AIML**
 
-- 💬 Ask me about **Frontend Development and Data Analysis **
+- 💬 Ask me about **Frontend Development and Data Analysis**
 
 - 📫 How to reach me **sushreerath503@gmail.com**
 
