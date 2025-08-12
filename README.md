@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sushree Suman Rath</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushreerath&label=Profile%20views&color=0e75b6&style=flat" alt="sushreerath" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Full Stack Development,Data Analysis**
 
-- 🌱 I’m currently learning **NodeJs,DSA in C++**
+- 🌱 I’m currently learning **DSA in C++,AIML**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development and Data Analysis **
 
 - 📫 How to reach me **sushreerath503@gmail.com**
 
